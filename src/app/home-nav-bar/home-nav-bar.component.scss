@@ -1,0 +1,23 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.nav-btn {
+  border: none;
+  margin-right: 1%;
+  background-color: transparent;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+.mat-sidenav-content{
+  height: calc(205vh - 115vh);
+}
+.mat-sidenav{
+  width: 15%;
+  color: black;
+  background-color: rgb(232, 233, 233);
+}
+.logo{
+  margin-left: 1%;
+  padding-bottom: 6%;
+}
